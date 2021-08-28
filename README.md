@@ -1,4 +1,4 @@
-# Ignite Challenge 01
+# Ignite Solid Challenge
 
 ## About this Project
 
